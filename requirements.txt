@@ -1,0 +1,4 @@
+# Travel AI（Streamlit + OpenAI）
+streamlit>=1.28.0
+openai>=1.40.0
+python-dotenv>=1.0.0

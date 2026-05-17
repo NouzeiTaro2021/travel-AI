@@ -1,0 +1,9 @@
+# 秘密情報（OpenAI API キーなど）
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+.venv/
